@@ -1,0 +1,19 @@
+body{
+	background: url("https://i.pinimg.com/originals/6a/ae/30/6aae302d215f4dd1a5a43a1237a3b947.jpg")	;
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    margin-top: 10px;
+	border-width:40px;
+	background-color: white; 
+	border-style:ridge;
+}
+
+h1,h4
+{
+	
+	color:red!important;
+	
+}
